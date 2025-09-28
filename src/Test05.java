@@ -23,5 +23,6 @@ public class Test05 {
         }
 
         System.out.println("Total Income = " + (salary + kudu + land));
+        System.out.println(kudu);
     }
 }
