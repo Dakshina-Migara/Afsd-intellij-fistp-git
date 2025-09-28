@@ -26,5 +26,8 @@ public class Increment {
         int val5 = 23;
         System.out.println(++val5);//pre increment ekedi eya ekathu kargena print wenawa
 
+        int val7 = 23;
+        ++val7;
+        System.out.println(val7);//pre increment
     }
 }
