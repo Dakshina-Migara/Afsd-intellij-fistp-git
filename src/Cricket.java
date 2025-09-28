@@ -17,9 +17,11 @@ public class Cricket {
         System.out.println("Average score of a player: " + (totalScore /11));
 
         int highScore = score[0];
+        int maxScore =0;
         for (int b = 0; b < 11; b++) {
             if (score[b] > highScore) {
                 highScore = score[b];
+                maxScore = b;
             }
         }
         System.out.println("Highest Score is " + highScore);
