@@ -16,6 +16,10 @@ public class Method {
         int inputNumber2 = scan.nextInt();
 
         findNumber2(inputNumber2);
+
+
+        //return
+        String name = findNumber3(inputNumber2);
     }
 
     //method
@@ -52,4 +56,15 @@ public class Method {
             System.out.println("it's odd");
         }
     }
+
+
+    //return method
+    public static String findNumber3(int inputNumber2) {
+        if (inputNumber2 % 2 == 0) {
+           return "even";
+        } else {
+          return "odd";
+        }
+    }
+
 }
