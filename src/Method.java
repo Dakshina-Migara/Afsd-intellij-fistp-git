@@ -20,6 +20,10 @@ public class Method {
 
         //return
         String name = findNumber3(inputNumber2);
+
+
+        getSum("migara");
+
     }
 
     //method
@@ -61,10 +65,15 @@ public class Method {
     //return method
     public static String findNumber3(int inputNumber2) {
         if (inputNumber2 % 2 == 0) {
-           return "even";
+            return "even";
         } else {
-          return "odd";
+            return "odd";
         }
+    }
+
+    //variable argument----->varargs
+    public static void getSum(String name, int... data) {
+        System.out.println(data[0]);
     }
 
 }
