@@ -8,6 +8,13 @@ public class Method {
             System.out.println("hello");
         }
 
+        //for each loop eka
+        int[] ar2 = {1,2,3,4};
+
+        for (int data :ar2){
+            System.out.println(data);
+        }
+
         getTotal();
 
         findNumber();
