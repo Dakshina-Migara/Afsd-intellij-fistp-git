@@ -72,8 +72,29 @@ public class Method {
     }
 
     //variable argument----->varargs
+    //parameter gana nodanna awastha waladi thama api meka use karanne
     public static void getSum(String name, int... data) {
         System.out.println(data[0]);
     }
 
+    //method overloading
+    //ekama method name eken apita aye aye method create karanna be
+    public static void getsname() {
+
+    }
+
+    //hebei method ekata parameter ekak use karala puluwan hebei aye me parameter ekama use karanna be wena method ekakata
+    public static void getsname(int x) {
+
+    }
+
+    //parmeter ekata thawa parameter ekak use karla liyannath puluwan
+    public static void getsname(int x, String c) {
+
+    }
+
+    //parmeter eke type eka wenas karala liyannath puluwan
+    public static void getsname(String z) {
+
+    }
 }
