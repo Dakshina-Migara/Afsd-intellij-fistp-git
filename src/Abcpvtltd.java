@@ -40,11 +40,9 @@ public class Abcpvtltd {
         String maxSalaryEmployee = maxSalaryEmployee(employee);
         System.out.println(maxSalaryEmployee);
 
-
         System.out.println("Enter nic to find : ");
         int findNIC = scan.nextInt();
         findEmployee(employee,findNIC);
-
 
         double incrementPercent = 0;
         System.out.println("how much want to increment");
@@ -98,7 +96,6 @@ public class Abcpvtltd {
     public static EmplyeeData[] incrementSalary(EmplyeeData[] employees, double incrementPercent) {
         for (int i = 0; i < employees.length; i++) {
             employees[i].employeeSalary += employees[i].employeeSalary * (incrementPercent / 100.0);
-
         }
         return employees;
     }
