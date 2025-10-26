@@ -5,4 +5,9 @@ public class EmplyeeData {
     int employeeAge;
     String address;
     double employeeSalary;
+
+
+    public  EmplyeeData(){
+        System.out.println("hi....!");
+    }
 }
