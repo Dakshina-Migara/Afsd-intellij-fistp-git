@@ -8,6 +8,13 @@ public class Method {
             System.out.println("hello");
         }
 
+        //for each loop eka
+        int[] ar2 = {1,2,3,4};
+
+        for (int data :ar2){
+            System.out.println(data);
+        }
+
         getTotal();
 
         findNumber();
@@ -16,6 +23,14 @@ public class Method {
         int inputNumber2 = scan.nextInt();
 
         findNumber2(inputNumber2);
+
+
+        //return
+        String name = findNumber3(inputNumber2);
+
+
+        getSum("migara");
+
     }
 
     //method
@@ -51,5 +66,42 @@ public class Method {
         } else {
             System.out.println("it's odd");
         }
+    }
+
+
+    //return method
+    public static String findNumber3(int inputNumber2) {
+        if (inputNumber2 % 2 == 0) {
+            return "even";
+        } else {
+            return "odd";
+        }
+    }
+
+    //variable argument----->varargs
+    //parameter gana nodanna awastha waladi thama api meka use karanne
+    public static void getSum(String name, int... data) {
+        System.out.println(data[0]);
+    }
+
+    //method overloading
+    //ekama method name eken apita aye aye method create karanna be
+    public static void getsname() {
+
+    }
+
+    //hebei method ekata parameter ekak use karala puluwan hebei aye me parameter ekama use karanna be wena method ekakata
+    public static void getsname(int x) {
+
+    }
+
+    //parmeter ekata thawa parameter ekak use karla liyannath puluwan
+    public static void getsname(int x, String c) {
+
+    }
+
+    //parmeter eke type eka wenas karala liyannath puluwan
+    public static void getsname(String z) {
+
     }
 }
