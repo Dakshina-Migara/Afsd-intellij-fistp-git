@@ -3,5 +3,8 @@ public class Details2 {
 
         Car car = new Car();
         car.gearCount = 5;
+
+        Vehicle vehicle = new Car();
+        vehicle.turnOnViper();
     }
 }
