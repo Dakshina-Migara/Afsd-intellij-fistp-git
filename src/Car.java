@@ -1,3 +1,5 @@
+
+//multiple inheritance
 public class Car extends Vehicle {
 
     //car eka benda vehicle eka
@@ -7,5 +9,8 @@ public class Car extends Vehicle {
     boolean isPowerMirror;
     int gearCount;
 
-    public void turnOnViper(){}
+    public void display(){}
+
+    public void turnOnViper(){
+    }
 }
