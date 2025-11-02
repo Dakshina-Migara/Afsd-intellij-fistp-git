@@ -6,5 +6,8 @@ public class ObjectClass {
 
         CustomerService service = new CustomerServiceImpl();
         service.deleteCustomer();
+
+        ComileTime time = new ComileTime();
+        time.play(10);
     }
 }
