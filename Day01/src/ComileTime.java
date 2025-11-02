@@ -11,3 +11,4 @@ public class ComileTime {
     public void play(double p) {
     }
 }
+//compile time polymorphism
