@@ -5,4 +5,7 @@ public interface StudentServices {
 
     void updateStudent();
 
+    static void getAll(){
+
+    }
 }
