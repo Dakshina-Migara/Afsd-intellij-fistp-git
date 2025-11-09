@@ -7,11 +7,12 @@ public class ObjectClass {
         CustomerService service = new CustomerServiceImpl();
         service.deleteCustomer();
 
+        //compile time polymophism
         ComileTime time = new ComileTime();
         time.play(10);
 
-        //super
-        RunTime2 b = new RunTime();
+        //run time polymophism using the super
+        PolyRun ags = new PolyRun2();
 
 
         //records
@@ -19,7 +20,6 @@ public class ObjectClass {
         System.out.println(animal.age());
         System.out.println(animal.name());
         System.out.println(animal.noOfLegs());
-
 
 
     }
