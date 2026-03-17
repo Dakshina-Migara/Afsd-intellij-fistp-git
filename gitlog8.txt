@@ -1,0 +1,441 @@
+﻿commit 38b6e092c256eb674660db9d3f944ec374ddf34c
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Fri Dec 12 09:18:44 2025 +0530
+
+    activity 3
+
+A	Day02/src/Activity3/Car.java
+A	Day02/src/Activity3/Details.java
+A	Day02/src/Activity3/Van.java
+A	Day02/src/Activity3/Vehicle.java
+
+commit 5819a72d26d63548934be891c1ee96be5b7c3339
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Fri Dec 12 08:22:33 2025 +0530
+
+    activity 0
+
+A	Day02/src/Activity2/Details.java
+A	Day02/src/Activity2/Engineer.java
+
+commit 15ace8d2552f6900e21b2b152a853687c71bc205
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Nov 9 11:57:00 2025 +0530
+
+    activity 01
+
+A	Day02/src/Activity1/School.java
+A	Day02/src/Activity1/Teacher.java
+
+commit 0a2112ed6fc1c6a6d8f187ee0e57c4da3d0f5abd
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Fri Nov 7 13:36:47 2025 +0530
+
+    run time polymophism using the super keyword
+
+M	Day01/src/ObjectClass.java
+A	Day01/src/PolyRun.java
+A	Day01/src/PolyRun2.java
+
+commit 04e5ff87e302c54bd27707ff2e9aa633d1f6f889
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Fri Nov 7 08:58:54 2025 +0530
+
+    learning the abstraction and polymophism
+
+M	Day01/src/CarClass.java
+M	Day01/src/CustomerServiceImpl.java
+A	Day01/src/RunTime.java
+A	Day01/src/RunTime2.java
+M	Day01/src/StudentServiceimpl.java
+M	Day01/src/StudentServices.java
+M	src/Cricketers.java
+M	src/Details.java
+
+commit 9e2f62ed4c36ac02131b32cb5f50e7782e7bf278
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Fri Nov 7 08:57:56 2025 +0530
+
+    activity using the oop methods
+
+A	Activity/src/Details2.java
+A	Activity/src/Employee.java
+A	Activity/src/Engineer.java
+A	Activity/src/Manager.java
+A	Activity/src/Servent.java
+
+commit 014b9bf58c08c973e71e2ba631ae0dd7d42291d4
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Nov 2 17:21:44 2025 +0530
+
+    records
+
+A	Day01/src/Animal.java
+M	Day01/src/ObjectClass.java
+
+commit 9b14068ec3cdc09dd7d600666b7bd66283f6f1e5
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Nov 2 15:57:37 2025 +0530
+
+    polymophism
+
+M	Day01/src/ComileTime.java
+
+commit a2d1a7bfec3d7cf4a0766f609425feefd67fc727
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Nov 2 15:49:38 2025 +0530
+
+    polymophism
+
+A	Day01/src/ComileTime.java
+M	Day01/src/ObjectClass.java
+
+commit 1275ef047ea4ca32f717843005881205f1f8546a
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Nov 2 15:38:50 2025 +0530
+
+    simple calculator make using interface and abstraction
+
+A	Day01/src/Calculator.java
+A	Day01/src/CalculatorImpl.java
+A	Day01/src/TestCalculator.java
+
+commit 83f32727bacbc4fd67ac3f9f8536e85bc6af3adf
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Nov 2 14:25:53 2025 +0530
+
+    learning abstractions
+
+A	Day01/src/CarClass.java
+
+commit 743968c903c5e8f957d5dcd4123f5602d7d98833
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Nov 2 14:24:12 2025 +0530
+
+    learning abstract and implements
+
+A	Day01/src/CustomerService.java
+A	Day01/src/CustomerServiceImpl.java
+A	Day01/src/ObjectClass.java
+
+commit 3f887f4b05bb25e5e7f14d15cfd03f757f43450c
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Nov 2 14:23:18 2025 +0530
+
+    using interface
+
+A	Day01/src/StudentServiceimpl.java
+A	Day01/src/StudentServices.java
+
+commit 8ff647df639511a199ed398aa655aaefb3b48246
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Tue Oct 28 05:44:59 2025 +0530
+
+    Activity
+
+A	Activity/src/Bus.java
+A	Activity/src/Car.java
+A	Activity/src/Details.java
+A	Activity/src/Van.java
+A	Activity/src/Vehicle.java
+M	src/Car.java
+M	src/Details2.java
+A	src/SparePart.java
+M	src/Vehicle.java
+
+commit d04f4cbac0502c00b93db8ff0732a94feca7bf26
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 26 12:43:44 2025 +0530
+
+    inheritance
+
+A	src/Car.java
+A	src/Details2.java
+A	src/Vehicle.java
+
+commit 756e6a2e4a54ba326ba9f215d50d29be02e2471a
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 26 12:07:00 2025 +0530
+
+    encapsulation
+
+A	src/Cricketers.java
+A	src/Details.java
+
+commit 6340194527a4cb389d677caed30fada1faa1137c
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 26 11:36:27 2025 +0530
+
+    classes and objects
+
+D	out/production/Demo - app/OOP.class
+M	out/production/Demo - app/OopPractice.class
+
+commit e867e8f1ebd81748f8dfc0cbe4b993ddebd41d85
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 26 11:36:14 2025 +0530
+
+    classes and objects
+
+M	out/production/Demo - app/EmplyeeData.class
+M	src/EmplyeeData.java
+
+commit 618ee3e248f09ff9208b06ff4f191d9b34edbbfd
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 26 11:36:06 2025 +0530
+
+    classes and objects
+
+M	out/production/Demo - app/Abcpvtltd.class
+M	src/Abcpvtltd.java
+
+commit 3234416aaaf902f68ac81aece578bb1dbb26dc1c
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Fri Oct 24 10:36:29 2025 +0530
+
+    changes
+
+A	out/production/Demo - app/Abcpvtltd.class
+A	out/production/Demo - app/EmplyeeData.class
+A	out/production/Demo - app/MethodActivity02.class
+A	out/production/Demo - app/MethodActivity03.class
+A	out/production/Demo - app/OOP.class
+A	out/production/Demo - app/OopPractice.class
+A	out/production/Demo - app/Private.class
+A	out/production/Demo - app/PrivatePatient.class
+A	out/production/Demo - app/VehicalData.class
+A	out/production/Demo - app/VehicleDataObject.class
+A	src/Abcpvtltd.java
+A	src/EmplyeeData.java
+A	src/OopPractice.java
+A	src/Private.java
+A	src/PrivatePatient.java
+A	src/Student.java
+A	src/VehicalData.java
+A	src/VehicleDataObject.java
+
+commit 97c2635514f5636f3906545cb171c6dbc898946f
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Fri Oct 24 10:35:16 2025 +0530
+
+    changes
+
+M	out/production/Demo - app/Method.class
+
+commit 42a60430ee5fe5cee2ee4b20686b544dc6d854c5
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sat Oct 18 09:13:50 2025 +0530
+
+    for each loop
+
+M	src/Method.java
+
+commit c10e40f3cc1ac54f5ecb07bc5cb911a273bc74a4
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sat Oct 18 09:02:06 2025 +0530
+
+    method overloadin
+
+M	src/Method.java
+
+commit 85031afb4610bae6afc69f115c919002bf11c34f
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sat Oct 18 08:52:19 2025 +0530
+
+    method
+
+M	out/production/Demo - app/Method.class
+M	src/Method.java
+
+commit 384aa5b185a29aa73e7243777ad7380d0dffdbf4
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sat Oct 18 08:52:05 2025 +0530
+
+    method activity
+
+A	src/MethodActivity02.java
+A	src/MethodActivity03.java
+
+commit 129f317fd21c2310baf8b69b19d8be6643b4cc50
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 12 14:10:12 2025 +0530
+
+    return method
+
+A	out/production/Demo - app/MethodActivity.class
+A	out/production/Demo - app/MethodActivity01.class
+M	src/Method.java
+
+commit 358977dca5662664087e35837f968224579d61f0
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 12 12:11:43 2025 +0530
+
+    age count
+
+M	Demo - app.iml
+M	out/production/Demo - app/Method.class
+A	src/MethodActivity.java
+
+commit 17272794d5667f195bcdaa3efd1af9318cb6aa89
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 12 12:10:50 2025 +0530
+
+    find the matching couple
+
+A	src/MethodActivity01.java
+
+commit d6c92aa75faeeeecd7f42b9b70652285a49431f2
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 12 09:56:51 2025 +0530
+
+    parameterized methods
+
+M	out/production/Demo - app/Method.class
+M	src/Method.java
+
+commit 8ccd9b7bdbedfd17c7f6fa32664c0681d7dfc1da
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 12 09:17:33 2025 +0530
+
+    none
+
+A	out/production/Demo - app/Abcpvt.class
+A	out/production/Demo - app/Bank.class
+A	out/production/Demo - app/BankingSystem.class
+M	out/production/Demo - app/Cricket.class
+M	out/production/Demo - app/Increment.class
+A	out/production/Demo - app/Method.class
+A	out/production/Demo - app/Multidiamentional.class
+M	out/production/Demo - app/Test05.class
+
+commit 10cad050647a5c440faeb7e0ac470e17a3177781
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 12 09:16:50 2025 +0530
+
+    learning Multidiamentional arrays
+
+A	src/Multidiamentional.java
+
+commit 3c1f3d73f22ca02c9e0498d1ceacc4c60852f346
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 12 09:16:30 2025 +0530
+
+    learning methods
+
+A	src/Method.java
+
+commit 581a66dca2cdd9c514cbac58f0c694e3d02b89af
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 12 09:15:56 2025 +0530
+
+    simple Bank system
+
+A	src/Bank.java
+
+commit 1d2e81962045a264998661403882778b2ab785db
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 12 09:15:35 2025 +0530
+
+    simple Bank system
+
+A	src/BankingSystem.java
+
+commit 8b5df20a4dbb63d8507c0f7343650da437fe44e8
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Oct 5 10:02:47 2025 +0530
+
+    store salaries and find the overcost for company
+
+A	src/Abcpvt.java
+
+commit 5ed203b81528c6900029c4189f515177b5f0b3c5
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Sep 28 12:15:06 2025 +0530
+
+    print kudu
+
+M	src/Test05.java
+
+commit b99b7164c4c8ea0c044dd1e4beee2efdc7e12e0d
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Sep 28 12:13:44 2025 +0530
+
+    add another increment
+
+M	src/Increment.java
+
+commit c7941c815d66a3e722372e3e01639ad4b8bb064b
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Sep 28 12:12:48 2025 +0530
+
+    find the best player
+
+M	src/Cricket.java
+
+commit 798735eaf1ba37fad46dccb8a9cfddbb1befb07b
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Sep 28 10:18:24 2025 +0530
+
+    readme
+
+M	README.md
+
+commit e6731a961e12c6befb87336e8805b70f146a97a9
+Author: Dakshina-Migara <dakshinamigara666@gmail.com>
+Date:   Sun Sep 28 09:57:12 2025 +0530
+
+    first commit
+
+A	.gitignore
+A	Demo - app.iml
+A	README.md
+A	out/production/Demo - app/ABC_pvt_ltd.class
+A	out/production/Demo - app/Age_and_name.class
+A	out/production/Demo - app/Arrays.class
+A	out/production/Demo - app/ArraysSample.class
+A	out/production/Demo - app/Cricket.class
+A	out/production/Demo - app/Demo.class
+A	out/production/Demo - app/If.class
+A	out/production/Demo - app/Increment.class
+A	out/production/Demo - app/Lagne.class
+A	out/production/Demo - app/LoginForm.class
+A	out/production/Demo - app/Loop.class
+A	out/production/Demo - app/Loop2.class
+A	out/production/Demo - app/Pactice.class
+A	out/production/Demo - app/Scnwork.class
+A	out/production/Demo - app/Telco.class
+A	out/production/Demo - app/Test.class
+A	out/production/Demo - app/Test01.class
+A	out/production/Demo - app/Test02.class
+A	out/production/Demo - app/Test03.class
+A	out/production/Demo - app/Test04.class
+A	out/production/Demo - app/Test05.class
+A	out/production/Demo - app/Test06.class
+A	out/production/Demo - app/Trace.class
+A	out/production/Demo - app/While.class
+A	out/production/Demo - app/WhileTask.class
+A	src/ABC_pvt_ltd.java
+A	src/Age_and_name.java
+A	src/Arrays.java
+A	src/ArraysSample.java
+A	src/Cricket.java
+A	src/Demo.java
+A	src/If.java
+A	src/Increment.java
+A	src/Lagne.java
+A	src/LoginForm.java
+A	src/Loop.java
+A	src/Loop2.java
+A	src/Pactice.java
+A	src/Scnwork.java
+A	src/Telco.java
+A	src/Test.java
+A	src/Test01.java
+A	src/Test02.java
+A	src/Test03.java
+A	src/Test04.java
+A	src/Test05.java
+A	src/Test06.java
+A	src/Trace.java
+A	src/While.java
+A	src/WhileTask.java
